@@ -32,7 +32,7 @@ jobs:
           # SSH key file name (default: id_rsa)
           #name: # optional, default is id_rsa
           # public keys of SSH servers
-          known_hosts: '' 
+          known_hosts: 'just-a-place-holder' 
           # SSH config
           # config: # optional, default is 
           # # replace / ignore / fail
